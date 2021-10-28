@@ -1,2 +1,2 @@
-# wgan-with-gradient-penalty
-Implementing a Wassertein GAN with gradient penalty. 
+# GANS
+Implementing all major GANS from scratch in Pytorch. 
